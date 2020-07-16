@@ -1,2 +1,2 @@
-# js-discovery
+# js-examples
 personal repo with mix of js examples
